@@ -37,6 +37,7 @@
 <!--   <img src="./images/strapi.png" title="Strapi" alt="Strapi" width="40" height="40"/>&nbsp; -->
 <!--   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp; -->
   <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="./images/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
