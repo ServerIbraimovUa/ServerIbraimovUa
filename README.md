@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100"/>
-</div>
+
 <div align="center">
   <h1>Hi there, I'm Front-end developer👋💻</h1>
 </div>
