@@ -41,3 +41,5 @@
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ServerIbraimovUa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="serveribraimovua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ServerIbraimovUa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="serveribraimovua" /></p>
